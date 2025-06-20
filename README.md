@@ -1,6 +1,6 @@
 # Weather CLI Tool
 
-🚀 A Python CLI that fetches weather data and generates PDF reports
+A Python CLI that fetches weather data and generates PDF reports
 
 ## Features
 - Concurrent API requests using asyncio
